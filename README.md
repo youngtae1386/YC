@@ -1,4 +1,5 @@
 # YC1
+<<<<<<< HEAD
 <html>
 
 <head>
